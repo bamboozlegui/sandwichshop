@@ -1,0 +1,6 @@
+0.1 - tikimybe, kad nupirks sumustini
+15 - vienu metu pateikiamu sumustiniu kiekis
+3 - periodiskumas (kas kiek laiko nauji sumustiniai)
+2 - kiek laiko isgulejes sumustinis ismetamas (valandom)
+2.2 - sumustinio kaina (eurais)
+7 - darbo dienos ilgis (valandom)
